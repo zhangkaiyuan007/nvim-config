@@ -1,4 +1,4 @@
-vim.cmd.colorscheme("gruvbox")
+vim.cmd.colorscheme("dracula")
 
 vim.opt.clipboard = 'unnamedplus'
 
